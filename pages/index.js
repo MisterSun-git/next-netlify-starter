@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to ip9.site" />
         <p className="description">
-          <a src="https://ip9.site">IP9.SITE</src>
+          <a src="https://ip9.site">IP9.SITE</a>
         </p>
       </main>
 
